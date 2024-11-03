@@ -6,7 +6,7 @@ subtitle: 5th-Year CS PhD Candidate at <a href='https://cs.uchicago.edu/'>The Un
 
 profile:
   align: right
-  image: prof_cropped.JPG
+  image: prof_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 
