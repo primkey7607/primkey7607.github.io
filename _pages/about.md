@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 5th-Year CS PhD Candidate at <a href='https://cs.uchicago.edu/'>The University of Chicago</a>. Advised by <a href='https://sanjayk.io/'>Sanjay Krishnan</a>.
+subtitle: 6th-Year CS PhD Candidate at <a href='https://cs.uchicago.edu/'>The University of Chicago</a>. Advised by <a href='https://sanjayk.io/'>Sanjay Krishnan</a>.
 
 profile:
   align: right
