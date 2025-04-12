@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:warning: I am officially on the job market for a research position. If you have spots on your data science/LLM research team, or are a faculty in search of a postdoc,
-please reach out! :warning:
+:warning: I am officially on the job market for a research position. If you are looking for someone who has experience in databases, data science or LLM research, please reach out! :warning:
